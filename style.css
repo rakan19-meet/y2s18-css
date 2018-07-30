@@ -1,4 +1,24 @@
-body{
-	background-color:#FE938C;
+a{
+	background-color:green;
 	color : white;
+}
+body{
+	background-color: yellow;
+}
+.veg{
+	color:yellow;
+}
+
+.meat{
+	color:green;
+}
+
+#sushi{
+	background-color: black;
+	font-size:150%;
+	font-style:italic;
+}
+
+.title{
+	border:3px  dotted green
 }
